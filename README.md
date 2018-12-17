@@ -81,10 +81,3 @@ Translations done so far:
 
 **Step 4)** Email me with a link to your forked repo / the translated files, at `N {{at}} NCASE {{dot}} ME` There may be a few things here and there we need to fix! (also, if you run into any issues, please email me as well! I may take a while to respond since I'm away the next couple weeks)
 
-**Step 5)** Wait for me to stop being busy and/or lazy and actually link your translated version from the main English version
-
-**Step 6)** Party! 🎉
-
-#	"LICENSE"
-
-[Creative Commons Zero](https://github.com/ncase/trust/blob/gh-pages/LICENSE): it's a public domain dedication, so basically, do whatever you want! Attribution is super appreciated, but I'm not gonna send legal goons after you or anything.
